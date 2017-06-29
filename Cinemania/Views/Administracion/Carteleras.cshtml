@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = "/Views/Shared/_LayoutAdministracion.cshtml";
+}
+
+<div class="container">
+
+    <h2 class="text-center">Administracion de carteleras</h2>
+
+    <!-- LINK VOLVER -->
+    <div class="btn-group">
+        <a href="./Inicio" class="btn btn-danger"><span class="glyphicon glyphicon-arrow-left"></span> Volver</a>
+    </div>
+
+    <!-- LINK NUEVO -->
+    <div class="btn-group">
+        <a href="./NuevoCartelera" class="btn btn-success"><span class="glyphicon glyphicon-plus"></span> Nuevo</a>
+    </div>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Sede</th>
+                <th>Película</th>
+                <th>Hora inicio</th>
+                <th>Fecha inicio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Cinemania.Carteleras c in Model)
+            {
+                <tr>
+                    <td>@c.IdSede</td>
+                    <td>@c.IdPelicula</td>
+                    <td>@c.HoraInicio</td>
+                    <td>@c.FechaInicio</td>                   
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="~/Scripts/Fecha.js"></script>
+<script src="~/Scripts/Horario.js"></script>

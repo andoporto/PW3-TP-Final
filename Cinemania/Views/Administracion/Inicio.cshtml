@@ -1,0 +1,73 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Inicio</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <!-- nav responsive-->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <!-- Menu -->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">CINEMANIA</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li><a href="#">Home</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="#"><span class="glyphicon glyphicon-user"></span> Administracion</a></li>
+                    <li><a href="../"><span class="glyphicon glyphicon-log-in"></span> Cerrar Sesion</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav> <!-- nav-->
+
+    <div class="container col-sm6 col-md-4 text-center">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Peliculas</div>
+            <div class="panel-body"><a href="/Administracion/Peliculas" class="btn btn-default"><span class="glyphicon glyphicon-list-alt"></span> Mostrar</a></div>
+        </div>
+    </div> <!-- container -->
+
+    <div class="container col-sm6 col-md-4 text-center">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Carteleras</div>
+            <div class="panel-body"><a href="/Administracion/Carteleras" class="btn btn-default"><span class="glyphicon glyphicon-list-alt"></span> Mostrar</a></div>
+        </div>
+    </div> <!-- container -->
+
+    <div class="container col-sm6 col-md-4 text-center">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Sedes</div>
+            <div class="panel-body"><a href="/Administracion/Sedes" class="btn btn-default"><span class="glyphicon glyphicon-list-alt"></span> Mostrar</a></div>
+        </div>
+
+    </div> <!-- container -->
+    <div class="container col-sm6 col-md-4 text-center">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Reportes</div>
+            <div class="panel-body"><a href="/Administracion/Reportes" class="btn btn-default"><span class="glyphicon glyphicon-list-alt"></span> Mostrar</a></div>
+        </div>
+    </div> <!-- container -->
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
+

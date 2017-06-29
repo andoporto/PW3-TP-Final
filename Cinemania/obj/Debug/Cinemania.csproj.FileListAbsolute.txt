@@ -1,0 +1,460 @@
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\ApplicationInsights.config
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\csc.exe
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Collections.Immutable.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\vbc.exe
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\VBCSCompiler.exe
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\VBCSCompiler.exe.config
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Cinemania.dll.config
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Cinemania.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Cinemania.pdb
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.Web.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.WindowsServer.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.ApplicationInsights.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.Web.Infrastructure.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Helpers.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Mvc.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Razor.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Webpages.Deployment.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Webpages.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Webpages.Razor.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.Web.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.AI.WindowsServer.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.ApplicationInsights.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Razor.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Webpages.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Webpages.Deployment.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Webpages.Razor.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Helpers.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\System.Web.Mvc.xml
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\es\System.Web.Razor.resources.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\es\System.Web.Webpages.resources.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\es\System.Web.Helpers.resources.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\es\System.Web.Mvc.resources.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\obj\Debug\Cinemania.csprojResolveAssemblyReference.cache
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\obj\Debug\Cinemania.dll
+c:\users\julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\obj\Debug\Cinemania.pdb
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\csc.exe.config
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\csc.rsp
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\csi.exe
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\csi.exe.config
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\csi.rsp
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.AppContext.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Console.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.IO.Compression.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.Claims.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.ValueTuple.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\vbc.exe.config
+C:\Users\Julian\documents\visual studio 2015\Projects\Cinemania\Cinemania\bin\roslyn\vbc.rsp
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\Cinemania\Cinemania\bin\EntityFramework.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\Cinemania\Cinemania\bin\EntityFramework.SqlServer.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\Cinemania\Cinemania\bin\EntityFramework.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\Cinemania\Cinemania\bin\EntityFramework.SqlServer.xml
+C:\Users\Julian\PW3\Cinemania\bin\ApplicationInsights.config
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\csc.exe
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\csc.exe.config
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\csc.rsp
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\csi.exe
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\csi.exe.config
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\csi.rsp
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.AppContext.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Console.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.IO.Compression.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.Claims.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.ValueTuple.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\vbc.exe
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\vbc.exe.config
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\vbc.rsp
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julian\PW3\Cinemania\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julian\PW3\Cinemania\bin\Cinemania.dll.config
+C:\Users\Julian\PW3\Cinemania\bin\Cinemania.dll
+C:\Users\Julian\PW3\Cinemania\bin\Cinemania.pdb
+C:\Users\Julian\PW3\Cinemania\bin\EntityFramework.dll
+C:\Users\Julian\PW3\Cinemania\bin\EntityFramework.SqlServer.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.Web.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Helpers.dll
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Mvc.dll
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Razor.dll
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Webpages.dll
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Webpages.Razor.dll
+C:\Users\Julian\PW3\Cinemania\bin\EntityFramework.xml
+C:\Users\Julian\PW3\Cinemania\bin\EntityFramework.SqlServer.xml
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.Web.xml
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Julian\PW3\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Razor.xml
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Webpages.xml
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Webpages.Razor.xml
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Helpers.xml
+C:\Users\Julian\PW3\Cinemania\bin\System.Web.Mvc.xml
+C:\Users\Julian\PW3\Cinemania\bin\es\System.Web.Razor.resources.dll
+C:\Users\Julian\PW3\Cinemania\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Julian\PW3\Cinemania\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Julian\PW3\Cinemania\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Julian\PW3\Cinemania\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Julian\PW3\Cinemania\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Julian\PW3\Cinemania\obj\Debug\Cinemania.csprojResolveAssemblyReference.cache
+C:\Users\Julian\PW3\Cinemania\obj\Debug\Cinemania.dll
+C:\Users\Julian\PW3\Cinemania\obj\Debug\Cinemania.pdb
+C:\Prog web 3 2017\PW3\Cinemania\bin\ApplicationInsights.config
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\csc.exe
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\csc.exe.config
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\csc.rsp
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\csi.exe
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\csi.exe.config
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\csi.rsp
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.AppContext.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Console.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Diagnostics.Process.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.IO.Compression.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.IO.FileSystem.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.IO.Pipes.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.AccessControl.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.Claims.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Threading.Thread.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.ValueTuple.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Xml.XPath.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\vbc.exe
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\vbc.exe.config
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\vbc.rsp
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\VBCSCompiler.exe
+C:\Prog web 3 2017\PW3\Cinemania\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog web 3 2017\PW3\Cinemania\bin\Cinemania.dll.config
+C:\Prog web 3 2017\PW3\Cinemania\bin\Cinemania.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Cinemania.pdb
+C:\Prog web 3 2017\PW3\Cinemania\bin\EntityFramework.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\EntityFramework.SqlServer.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.DependencyCollector.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.Web.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.WindowsServer.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.ApplicationInsights.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.Web.Infrastructure.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Helpers.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Mvc.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Razor.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Webpages.Deployment.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Webpages.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Webpages.Razor.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\EntityFramework.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\EntityFramework.SqlServer.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.DependencyCollector.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.Web.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.AI.WindowsServer.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.ApplicationInsights.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Razor.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Webpages.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Webpages.Deployment.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Webpages.Razor.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Helpers.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\System.Web.Mvc.xml
+C:\Prog web 3 2017\PW3\Cinemania\bin\es\System.Web.Razor.resources.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\es\System.Web.Webpages.resources.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\es\System.Web.Helpers.resources.dll
+C:\Prog web 3 2017\PW3\Cinemania\bin\es\System.Web.Mvc.resources.dll
+C:\Prog web 3 2017\PW3\Cinemania\obj\Debug\Cinemania.csprojResolveAssemblyReference.cache
+C:\Prog web 3 2017\PW3\Cinemania\obj\Debug\Cinemania.dll
+C:\Prog web 3 2017\PW3\Cinemania\obj\Debug\Cinemania.pdb
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\ApplicationInsights.config
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\csc.exe
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\csc.exe.config
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\csc.rsp
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\csi.exe
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\csi.exe.config
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\csi.rsp
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.AppContext.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Console.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Diagnostics.Process.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.IO.Compression.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.IO.FileSystem.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.IO.Pipes.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.AccessControl.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.Claims.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Threading.Thread.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.ValueTuple.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Xml.XPath.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\vbc.exe
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\vbc.exe.config
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\vbc.rsp
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\VBCSCompiler.exe
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Cinemania.dll.config
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Cinemania.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Cinemania.pdb
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\EntityFramework.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\EntityFramework.SqlServer.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.DependencyCollector.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.Web.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.WindowsServer.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.ApplicationInsights.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.Web.Infrastructure.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Helpers.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Mvc.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Razor.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Webpages.Deployment.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Webpages.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Webpages.Razor.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\EntityFramework.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\EntityFramework.SqlServer.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.DependencyCollector.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.Web.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.AI.WindowsServer.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.ApplicationInsights.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Razor.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Webpages.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Webpages.Deployment.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Webpages.Razor.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Helpers.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\System.Web.Mvc.xml
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\es\System.Web.Razor.resources.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\es\System.Web.Webpages.resources.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\es\System.Web.Helpers.resources.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\bin\es\System.Web.Mvc.resources.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\obj\Debug\Cinemania.csprojResolveAssemblyReference.cache
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\obj\Debug\Cinemania.dll
+C:\Prog web 3 2017\PW3 - copia3\Cinemania\obj\Debug\Cinemania.pdb
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\ApplicationInsights.config
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\csc.exe
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\csc.exe.config
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\csc.rsp
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\csi.exe
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\csi.exe.config
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\csi.rsp
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.AppContext.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Collections.Immutable.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Console.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Diagnostics.Process.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.IO.Compression.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.IO.FileSystem.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.IO.Pipes.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Reflection.Metadata.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.AccessControl.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.Claims.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Threading.Thread.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.ValueTuple.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Xml.XPath.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\vbc.exe
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\vbc.exe.config
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\vbc.rsp
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\VBCSCompiler.exe
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\roslyn\VBCSCompiler.exe.config
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Cinemania.dll.config
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Cinemania.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Cinemania.pdb
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\EntityFramework.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\EntityFramework.SqlServer.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.DependencyCollector.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.Web.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.WindowsServer.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.ApplicationInsights.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.Web.Infrastructure.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Helpers.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Mvc.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Razor.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Webpages.Deployment.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Webpages.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Webpages.Razor.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\EntityFramework.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\EntityFramework.SqlServer.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.DependencyCollector.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.Web.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.AI.WindowsServer.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.ApplicationInsights.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Razor.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Webpages.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Webpages.Deployment.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Webpages.Razor.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Helpers.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\System.Web.Mvc.xml
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\es\System.Web.Razor.resources.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\es\System.Web.Webpages.resources.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\es\System.Web.Helpers.resources.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\bin\es\System.Web.Mvc.resources.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\obj\Debug\Cinemania.csprojResolveAssemblyReference.cache
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\obj\Debug\Cinemania.dll
+C:\Prog web 3 2017\PW3 - copia6\Cinemania\obj\Debug\Cinemania.pdb
