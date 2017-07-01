@@ -1,10 +1,6 @@
 ﻿$(document).ready(function () {
-<<<<<<< HEAD
-    $('.horario').timepicker({
-=======
     $('input.HoraInicio').timepicker({
->>>>>>> 24015a67021261dbd545174a4500f470cdd3f8b9
-        timeFormat: 'h:mm p',
+        timeFormat: 'h:i A',
         interval: 60,
         minTime: '10',
         maxTime: '6:00pm',
@@ -15,7 +11,4 @@
         scrollbar: true
     });
 });
-<<<<<<< HEAD
-=======
 
->>>>>>> 24015a67021261dbd545174a4500f470cdd3f8b9

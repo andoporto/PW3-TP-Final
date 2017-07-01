@@ -8,19 +8,16 @@ namespace Cinemania.Models
 {
     public class PeliculaMetadata
     {
-        [Required]
-        [Key]
-        public int cod { get; set; }
-        [Required]
-        [StringLength(150, MinimumLength = 10, ErrorMessage = " El {0} debe tener entre 10 y 50 caracteres")]
-        public string nombre { get; set; }
-        [Required]
-        public int descripcion { get; set; }
-        [Required]
-        public int calificacion { get; set; }
-        [Required]
-        public int genero { get; set; }
-        [Required]  [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/mm/yyyy}")]             
+        public int IdPelicula { get; set; }        
+        [Required(ErrorMessage = "El Nombre no debe estar vacío")]
+        public string Nombre { get; set; }
+        [Required(ErrorMessage = "La Descripcion no debe estar vacía")]
+        public int Descripcion { get; set; }
+        [Required(ErrorMessage = "Debe elegir una clasificación")]
+        public int IdCalificacion { get; set; }
+        [Required(ErrorMessage = "Debe elegir un género")]       
+        public int IdGenero { get; set; }
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/mm/yyyy}")]             
         public Nullable<System.DateTime> FechaCarga { get; set; }
     }
 }

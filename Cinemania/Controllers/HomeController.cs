@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Cinemania.Models;
+using System.Runtime.Remoting.Contexts;
 
 namespace Cinemania.Controllers
 {

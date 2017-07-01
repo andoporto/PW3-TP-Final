@@ -22,18 +22,24 @@
             <tr>
                 <th>Sede</th>
                 <th>Película</th>
+                <th>Versión</th>
+                <th>Número de Sala</th>
                 <th>Hora inicio</th>
                 <th>Fecha inicio</th>
+                <th>Fecha fin</th>
             </tr>
         </thead>
         <tbody>
             @foreach (Cinemania.Carteleras c in Model)
             {
                 <tr>
-                    <td>@c.IdSede</td>
-                    <td>@c.IdPelicula</td>
+                    <td>@c.Sedes.Nombre</td>
+                    <td>@c.Peliculas.Nombre</td>
+                    <td>@c.Versiones.Nombre</td>
+                    <td>@c.NumeroSala</td>
                     <td>@c.HoraInicio</td>
-                    <td>@c.FechaInicio</td>                   
+                    <td>@c.FechaInicio</td>
+                    <td>@c.FechaFin</td> 
                 </tr>
             }
         </tbody>

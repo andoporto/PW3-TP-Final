@@ -127,10 +127,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-datepicker.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\jquery-ui.css" />
     <Content Include="Content\jquery.timepicker.css" />
     <Content Include="Context.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
@@ -164,6 +166,8 @@
     <Content Include="imagenes\rambo.jpg" />
     <Content Include="imagenes\rapidos y furiosos 8.jpg" />
     <Content Include="imagenes\terminator.jpg" />
+    <Content Include="Scripts\bootstrap-datepicker.es.min.js" />
+    <Content Include="Scripts\bootstrap-datepicker.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\Datepair.js" />
@@ -208,6 +212,7 @@
     </Compile>
     <Compile Include="Controllers\AdministracionController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PeliculasController.cs" />
     <Compile Include="Generos.cs">
       <DependentUpon>Context.tt</DependentUpon>
     </Compile>
@@ -217,6 +222,8 @@
     <Compile Include="Models\Cartelera.cs" />
     <Compile Include="Models\CarteleraMetaData.cs" />
     <Compile Include="Models\ListarCalificacion.cs" />
+    <Compile Include="Models\Reserva.cs" />
+    <Compile Include="Models\ReservaMetadata.cs" />
     <Compile Include="Models\SedeMetadata.cs" />
     <Compile Include="Models\Pelicula.cs" />
     <Compile Include="Models\PeliculaMetadata.cs" />
@@ -266,6 +273,8 @@
     <Content Include="Views\Administracion\EditarSede.cshtml" />
     <Content Include="Views\Administracion\NuevoCartelera.cshtml" />
     <Content Include="Views\Shared\_LayoutAdministracion.cshtml" />
+    <Content Include="Views\Peliculas\NuevaReserva.cshtml" />
+    <Content Include="Views\Peliculas\Reservas.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

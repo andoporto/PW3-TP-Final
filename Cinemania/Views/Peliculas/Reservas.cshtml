@@ -1,0 +1,55 @@
+﻿@model List<Cinemania.Reservas>
+
+@{
+    Layout = "/Views/Shared/_LayoutAdministracion.cshtml";
+}
+
+<body>
+
+
+
+
+
+    <div class="container">
+
+        <h2 class="text-center">Peliculas</h2>
+
+        <!-- LINK VOLVER -->
+        <div class="btn-group">
+            <a href="./Inicio" class="btn btn-danger"><span class="glyphicon glyphicon-arrow-left"></span> Volver</a>
+        </div>
+
+        <!-- LINK NUEVO -->
+        <div class="btn-group">
+            <a href="./NuevaReserva" class="btn btn-success"><span class="glyphicon glyphicon-plus"></span> Nuevo</a>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Version</th>
+                    <th>Sede</th>
+                    <th>Dia</th>
+                    <th>Hora</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Cinemania.Reservas r in Model)
+                {
+                    <tr>
+                        <td>@r.Versiones.Nombre</td>
+                        <td>@r.Sedes.Nombre</td>
+                        <td>@r.FechaHoraInicio</td>                
+                        <td class="text-center"><a href="./Reserva?IdPelicula=@r.IdPelicula" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Editar</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>

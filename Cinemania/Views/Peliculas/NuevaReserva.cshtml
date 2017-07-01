@@ -1,0 +1,63 @@
+﻿
+@model Cinemania.Reservas
+
+@{
+    Layout = "/Views/Shared/_LayoutAdministracion.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NuevaReserva</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container">
+        @*using (Html.BeginForm("/NuevoPelicula", "Administracion", new { enctype = "multipart/form-data", @class = "text-danger" }))*@
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div id="loginbox" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+                <!-- CABECERA -->
+                <h2 class="text-center">Nuevo</h2>
+                <!-- INPUT NOMBRE -->
+                <div class="form-group">
+
+                    @Html.DropDownList("IdVersion", null, "Selecione Version", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.IdVersion, "", new { @class = "text-danger" })
+                </div>
+        
+
+                <div class="form-group">
+                    @Html.DropDownList("IdSede", null, "Selecione Sede", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.IdSede, "", new { @class = "text-danger" })
+
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.FechaHoraInicio, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.FechaHoraInicio, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.FechaHoraInicio, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                
+                <!-- BOTON GUARDAR -->
+                <div class="text-center">
+                    <input type="submit" class="btn btn-success" value="Guardar" />
+                    <!-- LINK SALIR -->
+                    <a href="./Peliculas" class="btn btn-default">Cancelar</a>
+                </div>
+
+            </div>}
+    </div>
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

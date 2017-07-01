@@ -11,7 +11,8 @@ namespace Cinemania
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Sedes
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -22,8 +23,11 @@ namespace Cinemania
         }
     
         public int IdSede { get; set; }
+        [Required(ErrorMessage = "Debe escribir un nombre de sede")]
         public string Nombre { get; set; }
+        [Required(ErrorMessage = "Debe escribir una dirección")]
         public string Direccion { get; set; }
+        [Required(ErrorMessage = "Debe escribir un precio")]
         public decimal PrecioGeneral { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
