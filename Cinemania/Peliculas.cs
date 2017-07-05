@@ -29,9 +29,7 @@ namespace Cinemania
         public string Descripcion { get; set; }
         [Required(ErrorMessage = "Debe cargar una imagen")]
         public string Imagen { get; set; }
-        [Required(ErrorMessage = "Debe elegir una clasificación")]
         public int IdCalificacion { get; set; }
-        [Required(ErrorMessage = "Debe elegir un género")]
         public int IdGenero { get; set; }
         public int Duracion { get; set; }
         public System.DateTime FechaCarga { get; set; }
@@ -39,7 +37,6 @@ namespace Cinemania
         public virtual Calificaciones Calificaciones { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Carteleras> Carteleras { get; set; }
-        [Required(ErrorMessage = "Debe elegir un género")]
         public virtual Generos Generos { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Reservas> Reservas { get; set; } 

@@ -17,10 +17,12 @@
                 <!-- INPUT NOMBRE -->
                 <div class="form-group">
                     <label for="Sede">Sede</label>
-                    @Html.DropDownList("IdSede", null, "Selecione Sede", new { @class = "form-control" })
-                    @Html.ValidationMessageFor(model => model.IdSede, "", new { @class = "text-danger" })
+                    @*Html.DropDownList("IdSede", null, "Selecione Sede", new { @class = "form-control" })*@
 
-                </div>
+                    @Html.DropDownList("IdSede", (IEnumerable<SelectListItem>)ViewBag.IdSede, "Selecione Sede", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.IdSede, "", new { @class = "text-danger" })
+
+</div>
 
                 <!-- INPUT DESCRIPCION -->
                 <div class="form-group">

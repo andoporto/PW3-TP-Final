@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-    $('input.HoraInicio').timepicker({
+    $('input.DiaReserva').timepicker({
         timeFormat: 'h:i A',
         interval: 60,
         minTime: '10',

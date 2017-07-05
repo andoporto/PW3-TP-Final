@@ -8,14 +8,12 @@ namespace Cinemania.Models
 {
     public class SedeMetadata
     {
-        [Required]
-        [Key]
-        public int cod { get; set; }
+        public int IdSede { get; set; }
         [Required]   
-        public string nombre { get; set; }
+        public string Nombre { get; set; }
         [Required]   
-        public string direccion { get; set; }
+        public string Direccion { get; set; }
         [Required]
-        public double precioEntrada { get; set; }
+        public double PrecioGeneral { get; set; }
     }
 }

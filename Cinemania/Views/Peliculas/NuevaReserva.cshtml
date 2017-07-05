@@ -1,6 +1,8 @@
 ﻿
 @model Cinemania.Reservas
 
+
+
 @{
     Layout = "/Views/Shared/_LayoutAdministracion.cshtml";
 }
@@ -36,15 +38,27 @@
                     @Html.ValidationMessageFor(model => model.IdSede, "", new { @class = "text-danger" })
 
                 </div>
-
                 <div class="form-group">
-                    @Html.LabelFor(model => model.FechaHoraInicio, htmlAttributes: new { @class = "control-label col-md-2" })
+                    @Html.DropDownList("HoraReserva", null, "Selecione Hora", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.FechaHoraInicio, "", new { @class = "text-danger" })
+
+                </div>
+                <div class="form-group">
+                    
+                    
+                        @Html.Editor("DiaReserva", new { @class = "form-control horario time ui-timepicker-input" })
+                        @Html.ValidationMessage("DiaReserva", "", new { @class = "text-danger" })
+                    
+                </div>
+            <!--
+                <div class="form-group">
+                    @*Html.LabelFor(model => model.FechaHoraInicio, htmlAttributes: new { @class = "control-label col-md-2" })*@
                     <div class="col-md-10">
-                        @Html.EditorFor(model => model.FechaHoraInicio, new { htmlAttributes = new { @class = "form-control" } })
-                        @Html.ValidationMessageFor(model => model.FechaHoraInicio, "", new { @class = "text-danger" })
+                        @*Html.EditorFor(model => model.FechaHoraInicio, new { htmlAttributes = new { @class = "form-control" } })*@
+                        @*Html.ValidationMessageFor(model => model.FechaHoraInicio, "", new { @class = "text-danger" })*@
                     </div>
                 </div>
-
+            -->
                 
                 <!-- BOTON GUARDAR -->
                 <div class="text-center">

@@ -21,5 +21,7 @@ namespace Cinemania.Models
         [Required]
         [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/mm/yyyy}")]
         public Nullable<System.DateTime> FechaCarga { get; set; }
+
+
     }
 }

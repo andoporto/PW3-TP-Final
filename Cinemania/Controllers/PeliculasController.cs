@@ -31,12 +31,12 @@ namespace Cinemania.Controllers
         {
             ViewBag.IdVersion = new SelectList(db.Versiones, "IdVersion", "Nombre");
             ViewBag.IdSede = new SelectList(db.Sedes, "IdSede", "Nombre");
-            
-            
+            ViewBag.HoraReserva = new SelectList(db.Carteleras, "IdCartelera", "HoraInicio");
 
 
 
-           
+
+
 
             return View();
 
