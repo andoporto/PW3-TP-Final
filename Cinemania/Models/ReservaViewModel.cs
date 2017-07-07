@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
+using Cinemania.Models;
 
 namespace Cinemania.Models
 {
-    public class ReservaMetadata
+    
+    public class ReservaViewModel
     {
-        [Required]        
+        [Required]
         public int IdReserva { get; set; }
-        [Required(ErrorMessage = "Debe seleccionar una sede")]     
+        [Required(ErrorMessage = "Debe seleccionar una sede")]
         public int IdSede { get; set; }
         [Required]
         public int IdVersion { get; set; }
@@ -20,8 +22,9 @@ namespace Cinemania.Models
         public int HoraInicio { get; set; }
         [Required]
         public int FechaInicio { get; set; }
-        [Required]
-        public DateTime FechaHoraInicio { get; set; }
+        [Required(AllowEmptyStrings = false, ErrorMessage = "Please provide Date")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/mm/yyyy}")]
+        public Nullable<System.DateTime> FechaHoraInicio { get; set; }
         [Required]
         public int Email { get; set; }
         [Required]
@@ -32,7 +35,5 @@ namespace Cinemania.Models
         public int CantidadEntradas { get; set; }
         [Required]
         public DateTime FechaCarga { get; set; }
-                
-
     }
 }

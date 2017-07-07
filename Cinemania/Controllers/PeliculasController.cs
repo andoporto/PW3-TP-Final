@@ -77,8 +77,12 @@ namespace Cinemania.Controllers
             string HoraInicio = Request["HoraInicio"];
             string FechaInicio = Request["FechaInicio"];
             string FechayHora = FechaInicio + " " + HoraInicio;
-            DateTime FechaHoraInicio = Convert.ToDateTime(FechayHora);           
-            res.FechaHoraInicio = FechaHoraInicio;
+
+          //  string format = "ddd dd MMM yyyy h:mm tt zzz";
+
+            Reserva.FechaHoraInicio = DateTime.Parse(FechayHora);
+           // DateTime FechaHoraInicio = DateTime.ParseExact(FechayHora, format, provider);
+           // res.FechaHoraInicio = FechaHoraInicio;
             /*
             List<Country> allCountry = new List<Country>();
             List<State> allState = new List<State>();

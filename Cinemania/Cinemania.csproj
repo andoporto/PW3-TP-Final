@@ -222,8 +222,7 @@
     <Compile Include="Models\Cartelera.cs" />
     <Compile Include="Models\CarteleraMetaData.cs" />
     <Compile Include="Models\ListarCalificacion.cs" />
-    <Compile Include="Models\Reserva.cs" />
-    <Compile Include="Models\ReservaMetadata.cs" />
+    <Compile Include="Models\ReservaViewModel.cs" />
     <Compile Include="Models\SedeMetadata.cs" />
     <Compile Include="Models\Pelicula.cs" />
     <Compile Include="Models\PeliculaMetadata.cs" />
