@@ -28,28 +28,38 @@
                 <!-- INPUT NOMBRE -->
                 <div class="form-group">
 
-                    @Html.DropDownList("IdVersion", null, "Selecione Version", new { @class = "form-control" })
+                    @Html.DropDownListFor(model => model.IdVersion, @ViewBag.IdVersion as SelectList, "Seleccione versión")
                     @Html.ValidationMessageFor(model => model.IdVersion, "", new { @class = "text-danger" })
                 </div>
         
 
                 <div class="form-group">
-                    @Html.DropDownList("IdSede", null, "Selecione Sede", new { @class = "form-control" })
+                    @*Html.DropDownList("IdSede", null, "Selecione Sede", new { @class = "form-control" })*@
+
+                    @Html.DropDownListFor(model => model.IdSede, @ViewBag.IdSede as SelectList, "Seleccione sede")
                     @Html.ValidationMessageFor(model => model.IdSede, "", new { @class = "text-danger" })
 
                 </div>
                 <div class="form-group">
-                    @Html.DropDownList("HoraReserva", null, "Selecione Hora", new { @class = "form-control" })
+                    @*Html.DropDownListFor(model => model.FechaHoraInicio, @ViewBag.FechaHoraInicio as SelectList, "Seleccione fecha")*@
                     @Html.ValidationMessageFor(model => model.FechaHoraInicio, "", new { @class = "text-danger" })
 
                 </div>
+               
                 <div class="form-group">
-                    
-                    
-                        @Html.Editor("DiaReserva", new { @class = "form-control horario time ui-timepicker-input" })
-                        @Html.ValidationMessage("DiaReserva", "", new { @class = "text-danger" })
-                    
+
+                    @Html.Editor("FechaInicio", new { @class = "form-control horario time ui-timepicker-input" })
+                    @Html.ValidationMessage("FechaInicio", "", new { @class = "text-danger" })
+
                 </div>
+                    
+                <div class="form-group">
+
+                    @Html.Editor("HoraInicio", new { @class = "form-control" })
+                    @Html.ValidationMessage("HoraInicio", "", new { @class = "text-danger" })
+
+                </div>
+
             <!--
                 <div class="form-group">
                     @*Html.LabelFor(model => model.FechaHoraInicio, htmlAttributes: new { @class = "control-label col-md-2" })*@
@@ -59,7 +69,7 @@
                     </div>
                 </div>
             -->
-                
+
                 <!-- BOTON GUARDAR -->
                 <div class="text-center">
                     <input type="submit" class="btn btn-success" value="Guardar" />
@@ -67,7 +77,8 @@
                     <a href="./Peliculas" class="btn btn-default">Cancelar</a>
                 </div>
 
-            </div>}
+            </div>
+        }
     </div>
 
     <script src="~/Scripts/jquery-3.1.1.min.js"></script>

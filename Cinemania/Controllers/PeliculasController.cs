@@ -18,6 +18,9 @@ namespace Cinemania.Controllers
         {
             var listaReservas = db.Reservas.ToList();
             ViewBag.listaReservas = new SelectList(db.Reservas, "IdReserva");
+           
+            
+            
 
             return View(listaReservas);
         }
@@ -29,16 +32,34 @@ namespace Cinemania.Controllers
 
         public ActionResult NuevaReserva()
         {
+
+            
+            
+            List<Sedes> totalSedes = new List<Sedes>();
+            List<Versiones> totalVersiones = new List<Versiones>();
+            using (Context dc = new Context())
+            {
+                totalSedes = dc.Sedes.OrderBy(a => a.IdSede).ToList();
+            }
+            // allState = db.Peliculas.OrderBy(a => a.IdPelicula).ToList();
+            ViewBag.IdSede = new SelectList(totalSedes, "IdSede", "Nombre");
             ViewBag.IdVersion = new SelectList(db.Versiones, "IdVersion", "Nombre");
-            ViewBag.IdSede = new SelectList(db.Sedes, "IdSede", "Nombre");
-            ViewBag.HoraReserva = new SelectList(db.Carteleras, "IdCartelera", "HoraInicio");
 
+            //  ViewBag.HoraReserva = new SelectList(db.Carteleras, "IdCartelera", "HoraInicio");
+            //   ViewBag.FechaInicio = new SelectList(db.Carteleras, "IdCartelera", "FechaInicio");
 
-
-
-
-
+            dynamic FechaInicio = null;
+            ViewBag.FechaInicio = FechaInicio;
+            dynamic HoraInicio = null;
+            ViewBag.HoraInicio = HoraInicio;
             return View();
+
+            // var pel = db.Peliculas.Where(p => p.IdPelicula == IdPelicula).FirstOrDefault();
+
+   
+
+
+           
 
         }
 
@@ -52,9 +73,45 @@ namespace Cinemania.Controllers
             Reservas res = new Reservas();
             res.IdVersion = Reserva.IdVersion;
             res.IdSede = Reserva.IdSede;
-            res.FechaHoraInicio = Reserva.FechaHoraInicio;
-            
-            
+
+            string HoraInicio = Request["HoraInicio"];
+            string FechaInicio = Request["FechaInicio"];
+            string FechayHora = FechaInicio + " " + HoraInicio;
+            DateTime FechaHoraInicio = Convert.ToDateTime(FechayHora);           
+            res.FechaHoraInicio = FechaHoraInicio;
+            /*
+            List<Country> allCountry = new List<Country>();
+            List<State> allState = new List<State>();
+
+            using (MyDatabaseEntities dc = new MyDatabaseEntities())
+            {
+                allCountry = dc.Countries.OrderBy(a => a.CountryName).ToList();
+                if (fb != null && fb.CountryID > 0)
+                {
+                    allState = dc.States.Where(a => a.CountryID.Equals(fb.CountryID)).OrderBy(a => a.StateName).ToList();
+                }
+            }
+
+            ViewBag.CountryID = new SelectList(allCountry, "CountryID", "CountryName", fb.CountryID);
+            ViewBag.StateID = new SelectList(allState, "StateID", "StateName", fb.StateID);
+
+
+            if (ModelState.IsValid)
+            {
+                using (MyDatabaseEntities dc = new MyDatabaseEntities())
+                {
+                    dc.Feedbacks.Add(fb);
+                    dc.SaveChanges();
+                    ModelState.Clear();
+                    fb = null;
+                    ViewBag.Message = "Successfully submitted";
+                }
+            }
+            else
+            {
+                ViewBag.Message = "Failed! Please try again";
+            }
+            return View(fb);*/
 
 
 

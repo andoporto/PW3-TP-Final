@@ -11,7 +11,8 @@ namespace Cinemania.Models
         public int IdSede { get; set; }
         [Required]   
         public string Nombre { get; set; }
-        [Required]   
+        
+        [Required(ErrorMessage = "Debe elegir un nombre")]
         public string Direccion { get; set; }
         [Required]
         public double PrecioGeneral { get; set; }

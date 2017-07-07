@@ -23,11 +23,11 @@ namespace Cinemania
         }
     
         public int IdSede { get; set; }
-        [Required(ErrorMessage = "Debe escribir un nombre de sede")]
+        [Required(ErrorMessage = "Debe elegir un nombre")]
         public string Nombre { get; set; }
-        [Required(ErrorMessage = "Debe escribir una dirección")]
+        [Required(ErrorMessage = "Debe elegir una dirección")]
         public string Direccion { get; set; }
-        [Required(ErrorMessage = "Debe escribir un precio")]
+        [Required(ErrorMessage = "El precio no debe estar vacío")]
         public decimal PrecioGeneral { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

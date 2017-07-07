@@ -192,9 +192,8 @@ namespace Cinemania.Controllers
             //ViewBag.IdSede = new SelectList(db.Sedes, "IdSede", "Nombre");
 
 
-            List<SelectListItem> dropdownSede = new List<SelectListItem>();
-            dropdownSede.AddRange(new SelectList(db.Sedes, "IdSede", "Nombre"));
-            ViewBag.IdSede = dropdownSede;
+            
+            ViewBag.IdSede = new SelectList(db.Sedes, "IdSede", "Nombre");
             ViewBag.IdPelicula = new SelectList(db.Peliculas, "IdPelicula", "Nombre");
             ViewBag.IdVersion = new SelectList(db.Versiones, "IdVersion", "Nombre");
             return View();

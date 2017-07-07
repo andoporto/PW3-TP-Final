@@ -9,19 +9,30 @@ namespace Cinemania.Models
     public class ReservaMetadata
     {
         [Required]        
-        public int cod { get; set; }
+        public int IdReserva { get; set; }
         [Required(ErrorMessage = "Debe seleccionar una sede")]     
-        public string nombre { get; set; }
+        public int IdSede { get; set; }
         [Required]
-        public int descripcion { get; set; }
+        public int IdVersion { get; set; }
         [Required]
-        public int calificacion { get; set; }
+        public int IdPelicula { get; set; }
         [Required]
-        public int genero { get; set; }
+        public int HoraInicio { get; set; }
         [Required]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/mm/yyyy}")]
-        public Nullable<System.DateTime> FechaCarga { get; set; }
-
+        public int FechaInicio { get; set; }
+        [Required]
+        public DateTime FechaHoraInicio { get; set; }
+        [Required]
+        public int Email { get; set; }
+        [Required]
+        public int IdTipoDocumento { get; set; }
+        [Required]
+        public string NumeroDocumento { get; set; }
+        [Required]
+        public int CantidadEntradas { get; set; }
+        [Required]
+        public DateTime FechaCarga { get; set; }
+                
 
     }
 }
